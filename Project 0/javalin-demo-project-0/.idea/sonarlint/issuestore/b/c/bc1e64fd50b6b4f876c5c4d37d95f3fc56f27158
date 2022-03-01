@@ -1,0 +1,6 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÿ”û˙
+s
+java:S1450"]Remove the "accountBalance" field and declare it as a local variable in the relevant methods.(ß„«Ø
+H
+java:S1068"2Remove this unused "accountBalance" private field.(ß„«Ø

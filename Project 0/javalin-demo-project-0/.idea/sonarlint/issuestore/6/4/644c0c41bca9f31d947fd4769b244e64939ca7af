@@ -1,0 +1,13 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Çµí‘
+B
+java:S16025",Remove useless curly braces around statement(ÂùğÆ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ò–ï­ÿÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ò–ï­ÿÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+A
+java:S1602o",Remove useless curly braces around statement(ó¼š
+{
+java:S1192N"eDefine a constant instead of duplicating this literal "User unauthorized to perform request" 4 times.(üú€
